@@ -44,8 +44,10 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Project Structure
+```text
 Laptop-Price-Prediction/
 ├── Laptop_Price_Prediction.ipynb
 ├── dataset.csv
 ├── README.md
 └── requirements.txt
+```
